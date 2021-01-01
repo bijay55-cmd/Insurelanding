@@ -276,6 +276,7 @@ text-align:center;
     .section2{
         margin-top: 20%;
         padding: 20px;
+        text-align: left;
     }
     .section2 hr{
         float:left;
