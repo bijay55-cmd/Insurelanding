@@ -333,4 +333,7 @@ nav a{
     .services ul{
         text-align: left;
     }
+    .services li{
+        margin-top: 10px;
+    }
 }
