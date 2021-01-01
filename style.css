@@ -202,8 +202,9 @@ nav a{
 .viewplans a{
     color:white;
 }
-    .section2{
+  .section2{
 text-align:center;
+}
 }
 @media screen and (min-width: 1020px){
     nav ul{
