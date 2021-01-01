@@ -177,7 +177,7 @@ width: 50%;
     margin: 20px;
 }
 }
-@media screen and (min-width: 801px){
+@media screen and (min-width: 801px) and (max-width:1019px){
     nav ul{
     display: flex;
     list-style: none;
