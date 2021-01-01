@@ -98,7 +98,10 @@ footer{
     color:black;
     text-align: center;
     margin-right:30px;
-}
+} 
+.services li{
+  margin-top: 10px;
+    }
 .services p{
     color: grey;
 }
@@ -333,7 +336,5 @@ nav a{
     .services ul{
         text-align: left;
     }
-    .services li{
-        margin-top: 10px;
-    }
+   
 }
