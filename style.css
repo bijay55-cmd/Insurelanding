@@ -131,6 +131,7 @@ footer{
         margin: 10px;
     }
     .hamburger{
+        background:transparent;
         display: block;
         padding: 10px;
     }
