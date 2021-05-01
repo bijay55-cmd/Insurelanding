@@ -133,6 +133,7 @@ footer{
     .hamburger{
         background:transparent;
         border:none;
+        font-size:20px;
         display: block;
         padding: 10px;
     }
